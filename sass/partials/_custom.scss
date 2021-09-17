@@ -1,5 +1,18 @@
 $primary: #e92569;
 
+//button
+
+$btn-padding-y-lg: 90%;
+$btn-padding-x-lg: 104px;
+$btn-font-size-lg: 16px;
+
 Body {
   background-image: radial-gradient(#ffffff, #e5e5e5);
+  font-family: "Playfair Display", serif;
+  font-family: "Lato", sans-serif;
+}
+
+h1 {
+  font: "Playfair Display", serif;
+  color: $primary;
 }

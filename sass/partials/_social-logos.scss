@@ -1,0 +1,15 @@
+.social {
+  color: #0a0a0a;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  &__text {
+    font-size: 16px;
+    padding-left: 0.5em;
+  }
+  &__logo {
+    font-size: 25px;
+    padding-left: 1em;
+    cursor: pointer;
+  }
+}

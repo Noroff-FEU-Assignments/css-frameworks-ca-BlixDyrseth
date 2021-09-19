@@ -1,0 +1,10 @@
+.tab-box {
+  &__container {
+    padding: 2em;
+    padding-bottom: 4em;
+  }
+  &__item--img {
+    width: 90%;
+    height: auto;
+  }
+}

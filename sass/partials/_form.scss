@@ -1,0 +1,12 @@
+.form {
+  max-width: 550px;
+  padding: 2em;
+  color: $dark;
+  &__item--btn {
+    width: 100%;
+  }
+}
+
+textarea {
+  width: 100%;
+}

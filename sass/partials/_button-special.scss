@@ -1,0 +1,18 @@
+.button-special {
+  display: flex;
+  flex: row;
+  justify-content: flex-end;
+  align-items: center;
+  height: 46px;
+  width: 100%;
+  cursor: pointer;
+  &__link {
+    margin-right: 3em;
+    font-size: 16px;
+  }
+  &__detail {
+    width: 35px;
+    height: 46px;
+    background: $dark;
+  }
+}
